@@ -1,0 +1,26 @@
+pid,pname,price,category,stock
+01, iPhone 13, 999, Smartphone, 50
+02, Samsung S21, 899, Smartphone, 40
+03, Google Pixel 6, 799, Smartphone, 30
+04, OnePlus 9 Pro, 899, Smartphone, 25
+05, Xiaomi Mi 11, 699, Smartphone, 35
+06, Huawei P50 Pro, 999, Smartphone, 20
+07, Sony  1 III, 1099, Smartphone, 15
+08, Oppo Find Pro, 1099, Smartphone, 20
+09, Motorola Pro, 799, Smartphone, 30
+10, Asus ROG 5, 999, Gaming Smartphone, 10
+11, MacBook 13, 1299, Laptop, 50
+12, Dell XPS 13, 1099, Laptop, 40
+13, HP Spectre, 1299, Laptop, 30
+14, Lenovo Carbon, 1499, Laptop, 25
+15, Asus ZenBook, 999, Laptop, 35
+16, Samsung QLED, 1999, TV, 50
+17, LG OLED CX, 1799, TV, 40
+18, Sony Bravia , 1499, TV, 30
+19, TCL 6-Series, 899, TV, 25
+20, Vizio P-Series, 1299, TV, 35
+21, Hisense U8G, 1199, TV, 20
+22, Panasonic , 2499, TV, 15
+23, Philips OLED, 1699, TV, 20
+24, Xiaomi Mi , 799, TV, 30
+25, Sony A90J, 2999, TV, 10
